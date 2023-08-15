@@ -10,7 +10,10 @@
 >   For the front end I am using **React JS 🕸️** with cool advance libraries according to customers' demand.
 
    ### My Work and projects
-    * 
+    * React Personal Portfolio site
+    * Weather App in React
+    * Meme Generator
+    * To-do list app
     
 ### Portfolio    
     🔗 [Kamran's Personal Portfolio Website](https://my-portfolio-ef0132.netlify.app/)
