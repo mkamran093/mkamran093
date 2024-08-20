@@ -6,11 +6,11 @@
 
 
 
-- 🌱 I’m currently learning **Backend technologies**
+- 🌱 I’m currently learning **Backend technologies, Software Development**
 
 - 👨‍💻 All of my projects are available at [github.com/mkamran093](github.com/mkamran093)
 
-- 💬 Ask me about **Front-End Development, Back-End Development**
+- 💬 Ask me about **Python Development, Back-End Development**
 
 - 📫 How to reach me **mkamran.bscssef20@iba-suk.edu.pk**
 <p>&nbsp;</p>
