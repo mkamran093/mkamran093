@@ -20,7 +20,7 @@
 
 Motivated Software Engineer with hands-on experience in backend development and a growing specialisation in Java-based systems using Spring Boot. I design and build RESTful APIs, integrate databases, and architect scalable backend services.
 
-Currently working as a **Junior Node.js Developer at VativeApps**, building and maintaining production APIs. Previously at **NexCurve Technologies** as a Python Developer, where I worked with Django and FastAPI.
+Ihave worked as a **Junior Node.js Developer at VativeApps**, building and maintaining production APIs and at **NexCurve Technologies** as a Python Developer, where I worked with Django and FastAPI.
 
 I hold a **BS in Computer Science** from Sukkur IBA University, graduating with a **100% OGDCL NTHP Scholarship** for academic excellence.
 
