@@ -1,98 +1,149 @@
 <div align="center">
 
-# Muhammad Kamran
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7B8C72&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Kamran;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;Building+scalable+APIs+%26+microservices" alt="Typing SVG" />
 
-**Backend Software Engineer**
+<br/>
 
-*Java · Spring Boot · Node.js · RESTful APIs · Microservices*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-k-76607124b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkamran093)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkamran.bscssef20@iba-suk.edu.pk)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/mkamran)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-k-76607124b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mkamran093)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mkamran.bscssef20@iba-suk.edu.pk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/mkamran)
-[![Profile Views](https://komarev.com/ghpvc/?username=mkamran093&style=flat-square&color=7B8C72&label=Profile+Views)](https://github.com/mkamran093)
+![Profile Views](https://komarev.com/ghpvc/?username=mkamran093&style=for-the-badge&color=7B8C72&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-## About
+## 🧭 About Me
 
-Motivated Software Engineer with hands-on experience in backend development and a growing specialisation in Java-based systems using Spring Boot. I design and build RESTful APIs, integrate databases, and architect scalable backend services.
+```yaml
+name: Muhammad Kamran
+role: Backend Software Engineer
+focus: Java-based systems using Spring Boot
+currently: Building & maintaining production APIs
+education: BS Computer Science, Sukkur IBA University
+scholarship: 100% OGDCL NTHP Scholarship (academic excellence)
+```
 
-Ihave worked as a **Junior Node.js Developer at VativeApps**, building and maintaining production APIs and at **NexCurve Technologies** as a Python Developer, where I worked with Django and FastAPI.
+I'm a motivated Software Engineer with hands-on experience in backend development and a growing specialisation in **Java-based systems using Spring Boot**. I design and build RESTful APIs, integrate databases, and architect scalable backend services.
 
-I hold a **BS in Computer Science** from Sukkur IBA University, graduating with a **100% OGDCL NTHP Scholarship** for academic excellence.
+- 💼 Worked as a **Junior Node.js Developer** at **VativeApps** — building and maintaining production APIs
+- 🐍 Worked as a **Python Developer** at **NexCurve Technologies** — building with **Django** and **FastAPI**
+- 🎓 **BS in Computer Science** from Sukkur IBA University, graduated with a **100% OGDCL NTHP Scholarship**
 
----
+<br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,py,js,cpp" />
 
 **Frameworks & Runtimes**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
+
+</td>
+<td valign="top" width="50%">
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 
-**Tools & Concepts**
+**Tools & Platforms**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=docker,git,postman,firebase,linux" />
 
-`REST APIs` &nbsp;`Microservices` &nbsp;`OOP` &nbsp;`DSA` &nbsp;`Agile` &nbsp;`SDLC`
+</td>
+</tr>
+</table>
 
----
+**Core Concepts**
 
-## Featured Projects
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-2E2E2E?style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-2E2E2E?style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-2E2E2E?style=flat-square)
+![DSA](https://img.shields.io/badge/-DSA-2E2E2E?style=flat-square)
+![Agile](https://img.shields.io/badge/-Agile-2E2E2E?style=flat-square)
+![SDLC](https://img.shields.io/badge/-SDLC-2E2E2E?style=flat-square)
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Kampus Konnect**](#) | Campus social platform — REST APIs, Firebase auth, MySQL data layer, production-deployed | Node.js · MySQL · Firebase |
-| [**TickShot**](#) | Short-video sharing platform backend — JWT auth, optimised DB schemas, production server | Node.js · MySQL · JWT |
-| [**Online Poll / Voting App**](#) | Spring Boot REST API with layered architecture (Controller → Service → Repository), CRUD operations | Spring Boot · Java · MySQL |
-| [**Counterfeit Medicine Detection**](#) | Blockchain-based pharmaceutical supply chain transparency system — FYP | React · Solidity · Sepolia |
+<br/>
 
----
+## 🚀 Featured Projects
 
-## GitHub Stats
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Kampus Konnect
+Campus social platform with REST APIs, Firebase auth, and a MySQL data layer — production-deployed.
+
+`Node.js` `MySQL` `Firebase`
+
+</td>
+<td width="50%">
+
+### 🎬 TickShot
+Short-video sharing platform backend with JWT auth, optimised DB schemas, running on a production server.
+
+`Node.js` `MySQL` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗳️ Online Poll / Voting App
+Spring Boot REST API with layered architecture (Controller → Service → Repository) and full CRUD operations.
+
+`Spring Boot` `Java` `MySQL`
+
+</td>
+<td width="50%">
+
+### 💊 Counterfeit Medicine Detection
+Blockchain-based pharmaceutical supply chain transparency system — Final Year Project.
+
+`React` `Solidity` `Sepolia`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mkamran093&show_icons=true&theme=default&hide_border=true&title_color=7B8C72&icon_color=7B8C72&text_color=1C1C1C&bg_color=F7F4EF" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkamran093&layout=compact&theme=default&hide_border=true&title_color=7B8C72&text_color=1C1C1C&bg_color=F7F4EF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkamran093&show_icons=true&theme=transparent&hide_border=true&title_color=7B8C72&icon_color=C08B6E&text_color=1C1C1C" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkamran093&layout=compact&theme=transparent&hide_border=true&title_color=7B8C72&text_color=1C1C1C" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkamran093&theme=default&hide_border=true&ring=7B8C72&fire=C08B6E&currStreakLabel=7B8C72&background=F7F4EF&sideLabels=5A5A5A&dates=A8A8A8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkamran093&theme=transparent&hide_border=true&ring=7B8C72&fire=C08B6E&currStreakLabel=7B8C72" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkamran093&theme=minimal&hide_border=true&line=7B8C72&color=1C1C1C&point=C08B6E" />
 
 </div>
 
----
+<br/>
+
+## 📬 Let's Connect
 
 <div align="center">
 
-*Open to backend engineering roles — feel free to reach out.*
+**Open to backend engineering roles — feel free to reach out.**
 
-**mkamran.bscssef20@iba-suk.edu.pk** &nbsp;·&nbsp; **+92-318-4454328**
+📧 **mkamran.bscssef20@iba-suk.edu.pk** &nbsp;|&nbsp; 📱 **+92-318-4454328**
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-k-76607124b/)
 
 </div>
