@@ -120,20 +120,15 @@ Blockchain-based pharmaceutical supply chain transparency system — Final Year 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkamran093&show_icons=true&theme=transparent&hide_border=true&title_color=7B8C72&icon_color=C08B6E&text_color=1C1C1C" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkamran093&layout=compact&theme=transparent&hide_border=true&title_color=7B8C72&text_color=1C1C1C" />
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=mkamran093&show_icons=true&theme=transparent&hide_border=true&title_color=7B8C72&icon_color=C08B6E&text_color=1C1C1C" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=mkamran093&layout=compact&theme=transparent&hide_border=true&title_color=7B8C72&text_color=1C1C1C" />
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkamran093&theme=transparent&hide_border=true&ring=7B8C72&fire=C08B6E&currStreakLabel=7B8C72" />
-
+ 
+<img src="https://streak-stats.demolab.com?user=mkamran093&theme=transparent&hide_border=true&ring=7B8C72&fire=C08B6E&currStreakLabel=7B8C72" />
 <br/><br/>
-
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkamran093&theme=minimal&hide_border=true&line=7B8C72&color=1C1C1C&point=C08B6E" />
-
 </div>
-
 <br/>
 
 ## 📬 Let's Connect
